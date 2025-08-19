@@ -51,7 +51,7 @@ The project answers **25 analytical questions** about crop production, yield, an
 ---
 
 ### 4️⃣ Results
-✅ **Python cleaning and EDA** – 15 insights with interactive Plotly charts (saved as HTML/PNG).  
+✅ **Python cleaning and EDA** – 15 insights with interactive Plotly charts.  
 ✅ **Power BI Dashboard** – 10 questions answered interactively with dynamic slicers.  
 ✅ **Comprehensive Insights** – Combination of Python EDA + BI dashboard ensures both detailed analysis and executive-level summaries.  
 
